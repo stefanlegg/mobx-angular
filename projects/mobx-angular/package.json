@@ -3,8 +3,8 @@
   "version": "4.1.0",
   "description": "Angular connector to MobX (2 and above)",
   "peerDependencies": {
-    "@angular/common": "^9.0.1",
-    "@angular/core": "^9.0.1",
+    "@angular/common": "^11.0.1",
+    "@angular/core": "^11.0.1",
     "mobx": ">=2",
     "tslib": "^1.10.0"
   },
